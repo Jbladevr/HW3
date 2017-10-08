@@ -1,0 +1,43 @@
+UNIQUE_CARRIER_ENTITY,UNIQUE_CARRIER,AIRLINE_ID,UNIQUE_CARRIER_NAME,REGION,CARRIER_GROUP
+1006,VX,21171,Virgin America,D,3
+1126,04Q,21080,Tradewind Aviation,D,1
+1130,09Q,21161,"Swift Air, LLC",D,1
+1131,CP,21167,Compass Airlines,D,2
+1150,0WQ,21352,Avjet Corporation,D,1
+1158,1AQ,21477,Via Airlines d/b/a Charter Air Transport,D,1
+1177,4B,21599,Boutique Air,D,1
+1189,LF,21635,CFM Inc d/b/a Contour Airlines,D,1
+1194,27Q,21652,"Jet Aviation Flight Services, Inc.",D,1
+1260,DL,19790,Delta Air Lines Inc.,D,3
+6003,YX,20452,Republic Airlines,D,2
+6031,AS,19930,Alaska Airlines Inc.,D,3
+6035,G4,20368,Allegiant Air,D,3
+6055,AMQ,20201,Ameristar Air Cargo,D,1
+6081,AJQ,20354,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,D,1
+6085,EV,20366,ExpressJet Airlines Inc.,D,3
+6200,FX,20107,Federal Express Corporation,D,3
+6299,EM,20263,Empire Airlines Inc.,D,1
+6460,F9,20436,Frontier Airlines Inc.,D,3
+6580,QX,19687,Horizon Air,D,2
+6673,B6,20409,JetBlue Airways,D,3
+6689,YV,20378,Mesa Airlines Inc.,D,2
+6690,GL,20402,Miami Air International,D,2
+6700,OO,20304,SkyWest Airlines Inc.,D,3
+6725,WN,19393,Southwest Airlines Co.,D,3
+6774,KLQ,20372,Kalitta Charters II,D,1
+6795,SY,20422,Sun Country Airlines d/b/a MN Airlines,D,2
+6820,MQ,20398,Envoy Air,D,3
+6830,NK,20416,Spirit Air Lines,D,3
+6841,9S,20190,Southern Air Inc.,D,2
+6904,AX,20237,Trans States Airlines,D,1
+6910,5X,19917,United Parcel Service,D,3
+6912,U7,20447,USA Jet Airlines Inc.,D,2
+6932,ZK,20358,Great Lakes Airlines,D,1
+6975,KS,20225,Peninsula Airways Inc.,D,1
+7024,9E,20363,Endeavor Air Inc.,D,2
+7041,G7,20500,GoJet Airlines LLC d/b/a United Express,D,2
+10877,UA,19977,United Air Lines Inc.,P,3
+11033,WN,19393,Southwest Airlines Co.,L,3
+16736,X9,20377,Omni Air International LLC,I,2
+0A050,AA,19805,American Airlines Inc.,D,3
+0A875,UA,19977,United Air Lines Inc.,D,3
