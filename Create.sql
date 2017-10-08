@@ -1,0 +1,5 @@
+CREATE TABLE Flight (FLIGHT_ID INT, DEPARTURES_SCHEDULED INT, PAYLOAD INT,
+                     SEATS INT, PASSENGERS INT, FREIGHT INT,
+                     MAIL INT, DISTANCE INT, DISTANCE_GROUP INT,
+                     AIR_TIME INT);
+                     
